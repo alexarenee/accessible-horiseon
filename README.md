@@ -9,5 +9,10 @@ vision impaired visitors who come to the website.
 
 file:///Users/alexamckinnis/urban-octo-telegram/index.html
 
+## Images
 
+<img src= "file:///Users/alexamckinnis/Desktop/Screen%20Shot%202022-09-29%20at%209.44.29%20PM.png">
 
+<img src = "file:///Users/alexamckinnis/Desktop/Screen%20Shot%202022-09-29%20at%209.44.47%20PM.png">
+
+<img src = "file:///Users/alexamckinnis/Desktop/Screen%20Shot%202022-09-29%20at%209.44.47%20PM.png">
